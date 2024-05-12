@@ -1,0 +1,5 @@
+torch==2.2.1
+torchvision==0.17.1
+transformers==4.38.2
+Pillow==9.4.0
+gradio==4.25.0
